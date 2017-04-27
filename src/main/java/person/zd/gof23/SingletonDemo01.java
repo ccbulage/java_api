@@ -17,6 +17,6 @@ public class SingletonDemo01 {
 	public static SingletonDemo01 getInstance() {
 		return SingletonInstance.instance;
 
-	}
+	} 
 
 }
